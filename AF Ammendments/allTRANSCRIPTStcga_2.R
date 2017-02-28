@@ -1,3 +1,4 @@
+
 # LOCATE MOTIFS
 #load StringR package
 library("stringr")
